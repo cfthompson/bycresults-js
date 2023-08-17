@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Boat Race Results</title>
+  <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Boat Race Results</h1>
+    <form id="raceForm" action="calculate_results.html" method="POST">
+      <table id="raceTable" class="table">
+        <thead>
+          <tr>
+            <th>Boat</th>
+            <th>Finish Time</th>
+            <th>Spinnaker</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><input type="text" name="boat[]" class="form-control"></td>
+            <td><input type="text" name="finishTime[]" class="form-control"></td>
+            <td><input type="checkbox" name="spinnaker[]" class="form-check-input"></td>
+          </tr>
+        </tbody>
+      </table>
+      <button type="button" id="addBoatBtn" class="btn btn-primary">Add Boat</button>
+      <button type="submit" class="btn btn-success">Calculate Results</button>
+    </form>
+  </div>
+
+  <!-- Include jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Include Bootstrap JS -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+      // Add boat button click event
+      $('#addBoatBtn').on('click', function() {
+        var newRow = $('<tr>');
+        var boatCell = $('<td>').append('<input type="text" name="boat[]" class="form-control">');
+        var finishTimeCell = $('<td>').append('<input type="text" name="finishTime[]" class="form-control">');
+        var spinnakerCell = $('<td>').append('<input type="checkbox" name="spinnaker[]" class="form-check-input">');
+        newRow.append(boatCell, finishTimeCell, spinnakerCell);
+        $('#raceTable tbody').append(newRow);
+      });
+    });
+  </script>
+</body>
+</html>
+
