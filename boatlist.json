@@ -1,0 +1,184 @@
+{ "SAIL": "", "NAME": "", "MODEL": "", "PHRF": "", "LENGTH": "", "FURLER": "" }
+{ "SAIL": "0", "NAME": "None", "MODEL": "-", "PHRF": "0", "LENGTH": "0", "FURLER": "0" }
+{ "SAIL": "11", "NAME": "Balienau", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18", "NAME": "Bravada", "MODEL": "Cal 29", "PHRF": "180", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "20", "NAME": "Hurricane", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "23", "NAME": "Psycho Tiller", "MODEL": "Jeanneau 32i", "PHRF": "141", "LENGTH": "32", "FURLER": "1" }
+{ "SAIL": "32", "NAME": "Little Dipper", "MODEL": "Bear", "PHRF": "252", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "41", "NAME": "Mojo", "MODEL": "Ranger 33", "PHRF": "159", "LENGTH": "33", "FURLER": "0" }
+{ "SAIL": "43", "NAME": "Fandango", "MODEL": "Cal 2-27", "PHRF": "204", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "48", "NAME": "Hang Ten", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "74", "NAME": "Balineau", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "134/147", "NAME": "JGPC", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "74", "NAME": "Chrysalis", "MODEL": "Durfor 34", "PHRF": "174", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "239", "NAME": "Martha", "MODEL": "Columbia 29", "PHRF": "228", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "322", "NAME": "Roxanne", "MODEL": "Tartan 4100", "PHRF": "90", "LENGTH": "41", "FURLER": "1" }
+{ "SAIL": "342", "NAME": "Nirvana", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "357", "NAME": "Yellowfin", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "513", "NAME": "Shut up and Drive", "MODEL": "J 24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "616", "NAME": "Dura Mater", "MODEL": "Cal 2-27", "PHRF": "210", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "697", "NAME": "Nimbus", "MODEL": "Ericson 30+", "PHRF": "162", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "988", "NAME": "Ondina", "MODEL": "Cal 2-29", "PHRF": "186", "LENGTH": "29", "FURLER": "1" }
+{ "SAIL": "1036", "NAME": "Flight", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "1036", "NAME": "Evil Octopus", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "2176", "NAME": "Evil Octopus", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "2372", "NAME": "Fly by Night", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "2394", "NAME": "Downtown Uproar", "MODEL": "J-24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "4105", "NAME": "Cheap Therapy", "MODEL": "Cal 20", "PHRF": "264", "LENGTH": "20", "FURLER": "0" }
+{ "SAIL": "4539", "NAME": "Blue Note", "MODEL": "CS 30", "PHRF": "159", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "5029", "NAME": "Mad Max", "MODEL": "Santana  22", "PHRF": "234", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "5062", "NAME": "Raven", "MODEL": "Santana 22", "PHRF": "234", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "5906", "NAME": "Diva", "MODEL": "Ranger 28", "PHRF": "183", "LENGTH": "28", "FURLER": "0" }
+{ "SAIL": "6090", "NAME": "Latin Lass", "MODEL": "Catalina 27", "PHRF": "204", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "6109", "NAME": "Eclipse", "MODEL": "Hawkfarm 28", "PHRF": "162", "LENGTH": "28", "FURLER": "0" }
+{ "SAIL": "46060", "NAME": "Energy", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "8012", "NAME": "Upstart", "MODEL": "SC 27", "PHRF": "144", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "8844", "NAME": "Snow Bird", "MODEL": "Yankee 30", "PHRF": "174", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "18091", "NAME": "Mission Impossible", "MODEL": "Merit 25", "PHRF": "168", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18198", "NAME": "Rock-on", "MODEL": "Olson 25", "PHRF": "162", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18201", "NAME": "Shark on Bluegrass", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18252", "NAME": "Alchemy", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18517", "NAME": "American Standard", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18675", "NAME": "Prime Mover", "MODEL": "J30", "PHRF": "141", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "26337", "NAME": "Tartanic", "MODEL": "Tartan Ten", "PHRF": "129", "LENGTH": "32", "FURLER": "0" }
+{ "SAIL": "27062", "NAME": "Wings", "MODEL": "Corsair 27/MK 1", "PHRF": "87", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "181", "NAME": "Wianno", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "28708", "NAME": "ThinkFast", "MODEL": "Olson 30", "PHRF": "99", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "28775", "NAME": "Hellion", "MODEL": "Olson 30", "PHRF": "99", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "38022", "NAME": "Sea Star", "MODEL": "Cal 39", "PHRF": "114", "LENGTH": "39", "FURLER": "0" }
+{ "SAIL": "40646", "NAME": "Jeannette", "MODEL": "Frers 40", "PHRF": "66", "LENGTH": "40", "FURLER": "0" }
+{ "SAIL": "59065", "NAME": "Diva", "MODEL": "Ranger 28", "PHRF": "183", "LENGTH": "28", "FURLER": "0" }
+{ "SAIL": "67614 (do not use)", "NAME": "Twilight Zone (Before Oct-2021)", "MODEL": "Merit 25", "PHRF": "171", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "87637", "NAME": "F.L.a.B S.L.a.B", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "87863", "NAME": "Firebolt", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "1" }
+{ "SAIL": "87939", "NAME": "BogHopper", "MODEL": "Soverel 33", "PHRF": "93", "LENGTH": "33", "FURLER": "0" }
+{ "SAIL": "12641", "NAME": "Mary C.", "MODEL": "C&C 27", "PHRF": "204", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "211", "NAME": "Two Truths", "MODEL": "Pacific Seacraft Dana", "PHRF": "240", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "198", "NAME": "Couch", "MODEL": "Sailmaster 26", "PHRF": "234", "LENGTH": "26", "FURLER": "0" }
+{ "SAIL": "18091", "NAME": "Nimbus", "MODEL": "J80", "PHRF": "114", "LENGTH": "25", "FURLER": "1" }
+{ "SAIL": "18", "NAME": "Bravada", "MODEL": "Cal-29", "PHRF": "192", "LENGTH": "29", "FURLER": "1" }
+{ "SAIL": "8844", "NAME": "Snowbird", "MODEL": "Yankee 30", "PHRF": "180", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "5147", "NAME": "Ricochet", "MODEL": "Santana 22", "PHRF": "234", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "44", "NAME": "Flamingo", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "38085", "NAME": "Serendipity", "MODEL": "Ericson 30", "PHRF": "168", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "747", "NAME": "Cricket", "MODEL": "Sea Sprite 23", "PHRF": "270", "LENGTH": "23", "FURLER": "0" }
+{ "SAIL": "5570", "NAME": "Dream Catcher", "MODEL": "Catalina 25", "PHRF": "222", "LENGTH": "25", "FURLER": "1" }
+{ "SAIL": "5570", "NAME": "Dream Catcher", "MODEL": "Catalina 25", "PHRF": "225", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "22884", "NAME": "Run and Reach", "MODEL": "Pearson 10M", "PHRF": "189", "LENGTH": "33", "FURLER": "1" }
+{ "SAIL": "18441", "NAME": "Mintaka 4", "MODEL": "Farr 38", "PHRF": "81", "LENGTH": "38", "FURLER": "0" }
+{ "SAIL": "1609", "NAME": "Double Trouble", "MODEL": "F18 Catamaran", "PHRF": "-39", "LENGTH": "18", "FURLER": "0" }
+{ "SAIL": "29706", "NAME": "Juanita", "MODEL": "Ranger 29", "PHRF": "180", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "114", "NAME": "High and Dry", "MODEL": "Santana 22", "PHRF": "237", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "90", "NAME": "USA 90", "MODEL": "F18", "PHRF": "-39", "LENGTH": "18", "FURLER": "0" }
+{ "SAIL": "200", "NAME": "Quiet Thing", "MODEL": "Ranger 22", "PHRF": "216", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "48", "NAME": "Hang 20", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "56", "NAME": "Current Affair", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "18091", "NAME": "Get Smart", "MODEL": "Merit 25", "PHRF": "168", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "98", "NAME": "Slight Disorder", "MODEL": "Moore 24", "PHRF": "150", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "7268", "NAME": "Sea Rover", "MODEL": "Mariner 31 ketch", "PHRF": "213", "LENGTH": "31", "FURLER": "0" }
+{ "SAIL": "49550", "NAME": "Red Witch", "MODEL": "C&C 29", "PHRF": "174", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "34", "NAME": "Maui Blanc", "MODEL": "Ericson 34", "PHRF": "129", "LENGTH": "34", "FURLER": "1" }
+{ "SAIL": "41", "NAME": "Magic Bus", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "27", "NAME": "Charge!", "MODEL": "Ericson 27", "PHRF": "234", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "C27", "NAME": "High Road", "MODEL": "Catalina 27", "PHRF": "207", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "blank", "NAME": "Bamboleiro", "MODEL": "Ranger 33", "PHRF": "153", "LENGTH": "33", "FURLER": "1" }
+{ "SAIL": "97707", "NAME": "Plus Sixteen", "MODEL": "Olson 911", "PHRF": "135", "LENGTH": "30", "FURLER": "1" }
+{ "SAIL": "518", "NAME": "Maybe Baby", "MODEL": "Hunter 34", "PHRF": "144", "LENGTH": "34", "FURLER": "1" }
+{ "SAIL": "none", "NAME": "Nimbus", "MODEL": "J-80", "PHRF": "111", "LENGTH": "26", "FURLER": "1" }
+{ "SAIL": "18656", "NAME": "Maui Blanc", "MODEL": "Ericson 34", "PHRF": "132", "LENGTH": "34", "FURLER": "1" }
+{ "SAIL": "181", "NAME": "Vuja Star", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "US77220", "NAME": "Imagine", "MODEL": "Davidson 44", "PHRF": "57", "LENGTH": "44", "FURLER": "0" }
+{ "SAIL": "231", "NAME": "Blue Moon", "MODEL": "Santana 22", "PHRF": "234", "LENGTH": "22", "FURLER": "0" }
+{ "SAIL": "616", "NAME": "Dura Mater (OLD - DO NOT USE)", "MODEL": "Cal 2-27", "PHRF": "213", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "000", "NAME": "Con Brio", "MODEL": "Catalina 30", "PHRF": "180", "LENGTH": "30", "FURLER": "1" }
+{ "SAIL": "2410", "NAME": "Bamboleiro", "MODEL": "Ranger 33", "PHRF": "150", "LENGTH": "33", "FURLER": "1" }
+{ "SAIL": "43", "NAME": "Fandango", "MODEL": "Cal 2-27", "PHRF": "204", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "28055", "NAME": "Frequent Flyer", "MODEL": "Express 37", "PHRF": "72", "LENGTH": "37", "FURLER": "0" }
+{ "SAIL": "18252", "NAME": "Alchemy - DUPLiCATE DO NOT USE", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "63336", "NAME": "Warwhoop", "MODEL": "Contessa 33", "PHRF": "147", "LENGTH": "33", "FURLER": "1" }
+{ "SAIL": "2935", "NAME": "My Time", "MODEL": "Tartan 3700", "PHRF": "120", "LENGTH": "37", "FURLER": "1" }
+{ "SAIL": "101", "NAME": "Archaeopteryx", "MODEL": "Hotfoot 20", "PHRF": "177", "LENGTH": "20", "FURLER": "0" }
+{ "SAIL": "28824", "NAME": "Zena - Old entry do not use", "MODEL": "Northstar 727", "PHRF": "195", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "NA", "NAME": "S227", "MODEL": "Sloop", "PHRF": "186", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "21102", "NAME": "Solana", "MODEL": "Santa Cruz 27", "PHRF": "141", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "8031", "NAME": "Cat 30", "MODEL": "Catalina 30", "PHRF": "180", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "283", "NAME": "Chomp!", "MODEL": "Etchells ", "PHRF": "126", "LENGTH": "31", "FURLER": "0" }
+{ "SAIL": "1037", "NAME": "Priya", "MODEL": "Ericson 27", "PHRF": "228", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "808", "NAME": "Sky", "MODEL": "J80", "PHRF": "114", "LENGTH": "26", "FURLER": "0" }
+{ "SAIL": "352", "NAME": "Sarah", "MODEL": "Contessa 26", "PHRF": "255", "LENGTH": "26", "FURLER": "0" }
+{ "SAIL": "330", "NAME": "Cheap Therapy", "MODEL": "Cal 20", "PHRF": "273", "LENGTH": "20", "FURLER": "0" }
+{ "SAIL": "78", "NAME": "Split Water", "MODEL": "J88", "PHRF": "81", "LENGTH": "29", "FURLER": "1" }
+{ "SAIL": "28258", "NAME": "O'mar", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "31", "NAME": "Cheers", "MODEL": "Catalina 28", "PHRF": "192", "LENGTH": "28", "FURLER": "0" }
+{ "SAIL": "NA", "NAME": "Hal McArthur ", "MODEL": "S2 27", "PHRF": "174", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "123", "NAME": "Zeno", "MODEL": "Pearson 365", "PHRF": "210", "LENGTH": "36", "FURLER": "0" }
+{ "SAIL": "884", "NAME": "LUNA", "MODEL": "Catalina 36", "PHRF": "150", "LENGTH": "36", "FURLER": "1" }
+{ "SAIL": "5238", "NAME": "Wilhelmina", "MODEL": "Pearson 34", "PHRF": "144", "LENGTH": "34", "FURLER": "1" }
+{ "SAIL": "000", "NAME": "ocsc", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "47952", "NAME": "Wolpertinger", "MODEL": "Santa Cruz 27", "PHRF": "141", "LENGTH": "27", "FURLER": "1" }
+{ "SAIL": "332", "NAME": "Tara", "MODEL": "Columbia 24 ", "PHRF": "258", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "3841", "NAME": "Penelope", "MODEL": "Cal 27", "PHRF": "201", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "18228", "NAME": "Gabe Ahseln", "MODEL": "Laser 28", "PHRF": "141", "LENGTH": "28", "FURLER": "0" }
+{ "SAIL": "154", "NAME": "no name", "MODEL": "Ericson 35-2", "PHRF": "150", "LENGTH": "35", "FURLER": "0" }
+{ "SAIL": "226", "NAME": "Greyhound (until 2019 - do not use)", "MODEL": "Farrier F22", "PHRF": "90", "LENGTH": "40", "FURLER": "0" }
+{ "SAIL": "226", "NAME": "Greyhound (until 2021 - do not use)", "MODEL": "Farrier F22", "PHRF": "30", "LENGTH": "66", "FURLER": "0" }
+{ "SAIL": "373", "NAME": "Rosalita", "MODEL": "cal 29", "PHRF": "192", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "357", "NAME": "SOGNO", "MODEL": "Pearson Triton", "PHRF": "228", "LENGTH": "28", "FURLER": "1" }
+{ "SAIL": "30130", "NAME": "Mad Hatter", "MODEL": "Wylie 34", "PHRF": "120", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "884", "NAME": "Luna", "MODEL": "Catalina 36", "PHRF": "150", "LENGTH": "36", "FURLER": "1" }
+{ "SAIL": "6218", "NAME": "Process", "MODEL": "Islander 30 mk2", "PHRF": "186", "LENGTH": "30", "FURLER": "1" }
+{ "SAIL": "61108", "NAME": "Indefatigable", "MODEL": "Hallberg Rassy 43 MK1", "PHRF": "132", "LENGTH": "43", "FURLER": "0" }
+{ "SAIL": "77146", "NAME": "Bear Territory", "MODEL": "Merit 25", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "1387", "NAME": "Gryphon", "MODEL": "Catalina 30", "PHRF": "180", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "none", "NAME": "G-2", "MODEL": "Swan 36", "PHRF": "144", "LENGTH": "36", "FURLER": "0" }
+{ "SAIL": "28706", "NAME": "Perseverance", "MODEL": "Catalina 36 TM", "PHRF": "141", "LENGTH": "36", "FURLER": "0" }
+{ "SAIL": "104", "NAME": "Foul Air", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "3903", "NAME": "Joyous", "MODEL": "Catalina 30", "PHRF": "180", "LENGTH": "30", "FURLER": "1" }
+{ "SAIL": "7877", "NAME": "Baby Yoda", "MODEL": "505", "PHRF": "120", "LENGTH": "16", "FURLER": "0" }
+{ "SAIL": "155", "NAME": "Heartstring", "MODEL": "Catalina 36", "PHRF": "141", "LENGTH": "36", "FURLER": "0" }
+{ "SAIL": "Ha", "NAME": "Vroom", "MODEL": "Ranger 33", "PHRF": "150", "LENGTH": "33", "FURLER": "1" }
+{ "SAIL": "57307", "NAME": "Wind Walker", "MODEL": "Islander 36", "PHRF": "144", "LENGTH": "36", "FURLER": "0" }
+{ "SAIL": "410", "NAME": "Resolute", "MODEL": "J/105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "56272", "NAME": "Zaff", "MODEL": "J/92", "PHRF": "105", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "56272", "NAME": "Zaff", "MODEL": "J/92", "PHRF": "105", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "S2 7.3", "NAME": "Gina", "MODEL": "S2 7.3", "PHRF": "240", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "14", "NAME": "Hattie", "MODEL": "J 100", "PHRF": "84", "LENGTH": "33", "FURLER": "0" }
+{ "SAIL": "400", "NAME": "Lulu", "MODEL": "J/105", "PHRF": "78", "LENGTH": "32", "FURLER": "0" }
+{ "SAIL": "67614", "NAME": "Twilight Zone", "MODEL": "Merit 25", "PHRF": "168", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "20", "NAME": "Juno", "MODEL": "J88", "PHRF": "81", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "Unknown ", "NAME": "Eileen", "MODEL": "J24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "226", "NAME": "Greyhound", "MODEL": "Farrier F22", "PHRF": "84", "LENGTH": "66", "FURLER": "0" }
+{ "SAIL": "18627", "NAME": "Ocean X", "MODEL": "Santana 35", "PHRF": "114", "LENGTH": "35", "FURLER": "0" }
+{ "SAIL": "28219 (do not use)", "NAME": "Maiden California (Before Aug-2022)", "MODEL": "Olson 30", "PHRF": "99", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "C42", "NAME": "Southern Cross", "MODEL": "Catalina 42", "PHRF": "102", "LENGTH": "42", "FURLER": "1" }
+{ "SAIL": "154", "NAME": "Betty", "MODEL": "Ericsson 35-2", "PHRF": "150", "LENGTH": "35", "FURLER": "1" }
+{ "SAIL": "j24", "NAME": "j24", "MODEL": "j24", "PHRF": "168", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "28219", "NAME": "Maiden California", "MODEL": "Olson 30", "PHRF": "102", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "Catalina 42", "NAME": "Sea Wolf", "MODEL": "Catalina 42", "PHRF": "102", "LENGTH": "42", "FURLER": "0" }
+{ "SAIL": "77", "NAME": "Unknown", "MODEL": "Folkboat", "PHRF": "252", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18514", "NAME": "Quiver", "MODEL": "Santa Cruz 40", "PHRF": "57", "LENGTH": "40", "FURLER": "0" }
+{ "SAIL": "529", "NAME": "Anna Lu", "MODEL": "Merit 25", "PHRF": "168", "LENGTH": "25", "FURLER": "1" }
+{ "SAIL": "143", "NAME": "Tern", "MODEL": "Pearson Ariel 26", "PHRF": "258", "LENGTH": "26", "FURLER": "0" }
+{ "SAIL": "38132", "NAME": "Take 5 More", "MODEL": "Olson 911 SE", "PHRF": "135", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "40415", "NAME": "Resa ", "MODEL": "Sweden Yachts 41", "PHRF": "99", "LENGTH": "41", "FURLER": "1" }
+{ "SAIL": "blank", "NAME": "Joyful Spirit", "MODEL": "Newport 20", "PHRF": "270", "LENGTH": "20", "FURLER": "0" }
+{ "SAIL": "N/a", "NAME": "Ariel", "MODEL": "Cal 39", "PHRF": "120", "LENGTH": "39", "FURLER": "1" }
+{ "SAIL": "USA382", "NAME": "Chao Pescao", "MODEL": "J105", "PHRF": "78", "LENGTH": "34", "FURLER": "0" }
+{ "SAIL": "N/A", "NAME": "Alsager", "MODEL": "Carter 41", "PHRF": "90", "LENGTH": "41", "FURLER": "1" }
+{ "SAIL": "7875", "NAME": "O’Leary Construction ", "MODEL": "505", "PHRF": "149", "LENGTH": "15", "FURLER": "0" }
+{ "SAIL": "91", "NAME": "Shadowfax", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18283", "NAME": "Verve", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "87637", "NAME": "Flabslab", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18283", "NAME": "Glitch", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "77010", "NAME": "Second Wind", "MODEL": "Capri 25", "PHRF": "168", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "18635", "NAME": "Easy Wind", "MODEL": "Santana 35", "PHRF": "114", "LENGTH": "35", "FURLER": "0" }
+{ "SAIL": "3095", "NAME": "Merial", "MODEL": "Catalina 30", "PHRF": "186", "LENGTH": "30", "FURLER": "1" }
+{ "SAIL": "67", "NAME": "Fly", "MODEL": "J88", "PHRF": "81", "LENGTH": "29", "FURLER": "0" }
+{ "SAIL": "No Sail number", "NAME": "Adriana", "MODEL": "Dufour 385", "PHRF": "108", "LENGTH": "38", "FURLER": "1" }
+{ "SAIL": "0070", "NAME": "Nesher", "MODEL": "Express 27", "PHRF": "129", "LENGTH": "27", "FURLER": "0" }
+{ "SAIL": "87863", "NAME": "Falkor", "MODEL": "Olson 25", "PHRF": "159", "LENGTH": "25", "FURLER": "0" }
+{ "SAIL": "27031", "NAME": "Hullabaloo", "MODEL": "Corsair F-31", "PHRF": "27", "LENGTH": "91", "FURLER": "0" }
+{ "SAIL": "28824", "NAME": "Zena", "MODEL": "Northstar 727", "PHRF": "192", "LENGTH": "24", "FURLER": "0" }
+{ "SAIL": "38349", "NAME": "Dazzler", "MODEL": "Wyliecat 30", "PHRF": "123", "LENGTH": "30", "FURLER": "0" }
+{ "SAIL": "5714", "NAME": "Mymble", "MODEL": "J99", "PHRF": "69", "LENGTH": "32", "FURLER": "0" }
+{ "SAIL": "108", "NAME": "Latency", "MODEL": "J99", "PHRF": "72", "LENGTH": "32", "FURLER": "0" }
